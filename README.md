@@ -1,2 +1,8 @@
 # Machine_learning_project
-this is my first machine learnig project
+This is my first machine learnig project
+
+Account requirments
+[Github Account]
+[Heroku Account]
+[Vs Code IDE]
+[Git CLI]
