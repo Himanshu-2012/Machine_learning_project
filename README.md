@@ -2,7 +2,8 @@
 This is my first machine learnig project
 
 Account requirments
-[Github Account]
-[Heroku Account]
-[Vs Code IDE]
-[Git CLI]
+
+1. [Github Account]
+2. [Heroku Account]
+3. [Vs Code IDE]
+4. [Git CLI]
