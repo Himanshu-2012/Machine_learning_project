@@ -7,3 +7,13 @@ Account requirments
 2. [Heroku Account]
 3. [Vs Code IDE]
 4. [Git CLI]
+
+Creating conda enviroment
+....
+
+Conda create -p venv python==3.7 -y
+....
+
+Conda activate venv/
+or
+conda activate venv
