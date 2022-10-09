@@ -20,3 +20,15 @@ conda activate venv
 
 
 pip install -r requirement.txt
+
+
+To setup CI/CD pipeline in heroku we need 3 informations
+1. HEROKU_EMAIL= hs4838@gmail.com
+2. HEROKU_API_KEY= 62216d46-edc5-4033-b3d7-f2117ec0fca4
+3. HEROKU_APP_NAME= ml-regression-himu
+
+BUILD DOCKER IMAGE
+....
+docker build -t <image_name>:<tagname>
+....
+
