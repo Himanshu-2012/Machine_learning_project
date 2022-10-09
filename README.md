@@ -17,3 +17,6 @@ Conda create -p venv python==3.7 -y
 Conda activate venv/
 or
 conda activate venv
+
+
+pip install -r requirement.txt
