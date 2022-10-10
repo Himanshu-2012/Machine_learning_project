@@ -28,7 +28,12 @@ To setup CI/CD pipeline in heroku we need 3 informations
 3. HEROKU_APP_NAME= ml-regression-himu
 
 BUILD DOCKER IMAGE
-....
+'''
 docker build -t <image_name>:<tagname>
-....
+'''
+
+'''
+python setup.py install
+'''
+
 
