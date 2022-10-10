@@ -1,12 +1,11 @@
-from setuptools import setup
+from setuptools import setup,find_packages
 from typing import List
 
 #declaring the veriable for setup function
 PROJECT_NAME= 'housing-prediction'
-VERSION="0.0.1"
+VERSION="0.0.2"
 AUTHOR='himanshu sharma'
 DESRCIPTION='This is first project of fsds'
-PACKAGES=['housing']
 REQUIREMENT_FILE_NAME='requirement.txt'
 
 
@@ -23,6 +22,6 @@ setup(
     version=VERSION,
     author=AUTHOR,
     description=DESRCIPTION,
-    packages=PACKAGES,
+    packages=find_packages(),
     install_requires=get_requirements_list()
 )
