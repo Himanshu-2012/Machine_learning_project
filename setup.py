@@ -3,7 +3,7 @@ from typing import List
 
 #declaring the veriable for setup function
 PROJECT_NAME= 'housing-prediction'
-VERSION="0.0.2"
+VERSION="0.0.4"
 AUTHOR='himanshu sharma'
 DESRCIPTION='This is first project of fsds'
 REQUIREMENT_FILE_NAME='requirement.txt'
