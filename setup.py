@@ -13,7 +13,7 @@ def get_requirements_list()->List[str]:
     '''this function return the list of requirement
     mention in the requirement.txt file'''
     with open(REQUIREMENT_FILE_NAME)as requirement_file:
-        return requirement_file.readlines().remove("-e .")
+        return requirement_file.readlines()
 
 
 
