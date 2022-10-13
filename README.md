@@ -35,5 +35,7 @@ docker build -t <image_name>:<tagname>
 '''
 python setup.py install
 '''
-
-
+'''
+install ipynb karnel
+pip install ipykernel
+'''
