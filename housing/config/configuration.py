@@ -1,5 +1,4 @@
-from housing.entity.config_entity import DataIngestionConfig,DatavalidationConfig,DataTransformationConfig,DataTrainerConfig, ModelEvaluationConfig, ModelPusherConfig, TrainingPipelineConfig,
-ModelEvaluationConfig,ModelPusherConfig,TrainingPipelineConfig
+from housing.entity.config_entity import DataIngestionConfig,DatavalidationConfig,DataTransformationConfig,DataTrainerConfig, ModelEvaluationConfig, ModelPusherConfig, TrainingPipelineConfig
 
 
 
